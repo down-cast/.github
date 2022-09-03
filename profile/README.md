@@ -1,4 +1,9 @@
-## Hi there 👋
+## Downcast Open Source Blog
+
+This is an open source project developed in my free time.
+
+### Architecture
+![Architecture Diagram](https://github.com/down-cast/architecture-and-docs/blob/main/architecture/architecture.drawio.png)
 
 <!--
 
